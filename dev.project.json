@@ -1,0 +1,27 @@
+{
+	"name": "awesomelogging-dev",
+	"tree": {
+	  "$className": "DataModel",
+	  
+	  "ReplicatedStorage": {
+		"$className": "ReplicatedStorage",
+		"Packages": {
+			"$className": "Folder",
+			
+			"awesomelogging": {
+				"$path": "default.project.json"
+			},
+			
+			"$path": "Packages"
+		}
+	  },
+	  
+	  "StarterPlayer": {
+		"StarterPlayerScripts": {
+			"run": {
+				"$path": "test/run.client.luau"
+			}
+		}
+	  }
+	}
+  }
